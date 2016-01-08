@@ -3,7 +3,7 @@
 
 name:                pandoc-code-block-output
 version:             0.1.0.0
-synopsis:            Pandoc filter that integrates code block output in the document
+synopsis:            Pandoc filter that integrates code block output just below them in a document
 -- description:         
 homepage:            https://github.com/iemxblog/pandoc-code-block-output
 license:             GPL-2
