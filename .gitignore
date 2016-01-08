@@ -1,0 +1,6 @@
+.cabal-sandbox/
+*.swp
+cabal.sandbox.config
+dist/
+*.log
+*.pdf
